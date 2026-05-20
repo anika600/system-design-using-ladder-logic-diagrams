@@ -31,7 +31,7 @@ The goal of these projects was to transition traditional hardware-based relay lo
 * `/Documentation`: Detailed I/O mapping and project descriptions.
 
 ### How to View
-**Quick View (Recommended):** Simply navigate to the /Screenshots folder in this repository. I have provided high-resolution images of the Ladder Diagrams for each project so you can review the logic directly in your browser.
+**Quick View (Recommended):** Simply navigate to the /Screenshots folder in this repository. I have provided images of the Ladder Diagrams for each project so you can review the logic directly in your browser.
 
 OR
 1. Download and install **Siemens LOGO! Soft Comfort**.
