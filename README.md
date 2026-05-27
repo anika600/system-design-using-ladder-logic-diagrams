@@ -1,5 +1,7 @@
+# 🏭 Industrial Automation with Siemens LOGO! PLC — Ladder Logic Projects
 ## 🚀 Overview
-The goal of these projects was to transition traditional hardware-based relay logic into programmable, fail-safe software solutions. Each project emphasizes **safety interlocking**, **fault diagnostics**, and **process efficiency**.
+
+The goal of these projects was to transition traditional hardware-based relay logic into programmable, fail-safe software solutions implemented directly in **Siemens LOGO! Soft Comfort V8.x**, targeting **Siemens LOGO! 8 Logic Modules**. Each project emphasizes **safety interlocking**, **fault diagnostics**, and **process efficiency**.
 
 ## 🛠 Featured Projects
 
